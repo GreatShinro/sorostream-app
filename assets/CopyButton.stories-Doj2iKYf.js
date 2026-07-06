@@ -1,4 +1,4 @@
-import{C as n}from"./CopyButton-vABv7KZ9.js";import"./index-BeMkoiPZ.js";const l={title:"UI/CopyButton",component:n},e={args:{value:"GBAMK6KZ3L3LYPZNAZQJR4HGLJ4E7MSTFJZXQZ2RL4QJKZKSX6JQJ5",label:"Copy address"}},a={args:{value:"GBAMK6KZ3L3LYPZNAZQJR4HGLJ4E7MSTFJZXQZ2RL4QJKZKSX6JQJ5",label:"Copy address"}};var r,s,o;e.parameters={...e.parameters,docs:{...(r=e.parameters)==null?void 0:r.docs,source:{originalSource:`{
+import{C as n}from"./CopyButton-r_UQv7Ri.js";import"./index-D6UiXB3w.js";const l={title:"UI/CopyButton",component:n},e={args:{value:"GBAMK6KZ3L3LYPZNAZQJR4HGLJ4E7MSTFJZXQZ2RL4QJKZKSX6JQJ5",label:"Copy address"}},a={args:{value:"GBAMK6KZ3L3LYPZNAZQJR4HGLJ4E7MSTFJZXQZ2RL4QJKZKSX6JQJ5",label:"Copy address"}};var r,s,o;e.parameters={...e.parameters,docs:{...(r=e.parameters)==null?void 0:r.docs,source:{originalSource:`{
   args: {
     value: "GBAMK6KZ3L3LYPZNAZQJR4HGLJ4E7MSTFJZXQZ2RL4QJKZKSX6JQJ5",
     label: "Copy address"
