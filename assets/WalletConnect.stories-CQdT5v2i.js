@@ -1,4 +1,4 @@
-import{W as u}from"./WalletConnect-CDmsWsof.js";import"./index-D6UiXB3w.js";import"./iframe-D9hWIAGV.js";import"./i18n-BmxB8-Ju.js";import"./SettingsContext-CWn3E9Z_.js";import"./CopyButton-r_UQv7Ri.js";import"./WalletContext-DaQYO3Kz.js";const W={title:"UI/WalletConnect",component:u},e={args:{onConnect:()=>{}}},r={args:{onConnect:()=>{}}},o={args:{onConnect:()=>{}}};var n,t,a;e.parameters={...e.parameters,docs:{...(n=e.parameters)==null?void 0:n.docs,source:{originalSource:`{
+import{W as u}from"./WalletConnect-BFWyrVoe.js";import"./index-BeMkoiPZ.js";import"./iframe-BkkzOziq.js";import"./i18n-mxdHzHT5.js";import"./SettingsContext-CW9ZHr3_.js";import"./CopyButton-vABv7KZ9.js";import"./WalletContext-C9Pz6hGd.js";const W={title:"UI/WalletConnect",component:u},e={args:{onConnect:()=>{}}},r={args:{onConnect:()=>{}}},o={args:{onConnect:()=>{}}};var n,t,a;e.parameters={...e.parameters,docs:{...(n=e.parameters)==null?void 0:n.docs,source:{originalSource:`{
   args: {
     onConnect: () => undefined
   }
