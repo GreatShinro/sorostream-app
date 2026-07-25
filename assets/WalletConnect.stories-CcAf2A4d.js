@@ -1,4 +1,4 @@
-import{W as u}from"./WalletConnect-CS6AUiIq.js";import"./index-D6UiXB3w.js";import"./iframe-C5fNNZ_z.js";import"./i18n-BmxB8-Ju.js";import"./SettingsContext-CWn3E9Z_.js";import"./CopyButton-nJnliN-H.js";import"./WalletContext-CjIKGpaT.js";const W={title:"UI/WalletConnect",component:u},e={args:{onConnect:()=>{}}},r={args:{onConnect:()=>{}}},o={args:{onConnect:()=>{}}};var n,t,a;e.parameters={...e.parameters,docs:{...(n=e.parameters)==null?void 0:n.docs,source:{originalSource:`{
+import{W as u}from"./WalletConnect-BpxHWz63.js";import"./index-D6UiXB3w.js";import"./iframe-BkJ5Ul9W.js";import"./i18n-BmxB8-Ju.js";import"./SettingsContext-CWn3E9Z_.js";import"./CopyButton-nJnliN-H.js";import"./WalletContext-CjIKGpaT.js";const W={title:"UI/WalletConnect",component:u},e={args:{onConnect:()=>{}}},r={args:{onConnect:()=>{}}},o={args:{onConnect:()=>{}}};var n,t,a;e.parameters={...e.parameters,docs:{...(n=e.parameters)==null?void 0:n.docs,source:{originalSource:`{
   args: {
     onConnect: () => undefined
   }
